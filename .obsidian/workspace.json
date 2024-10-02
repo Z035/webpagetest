@@ -169,16 +169,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "c027e7829214a78a",
   "lastOpenFiles": [
-    "webpagetest",
-    "ege",
+    "index.html",
     "ege/teststest.md",
     "ege/gegek.md",
-    "TEst/Test1.md",
-    "TEst"
+    "lib/search-index.json",
+    "lib/metadata.json",
+    "lib/styles/obsidian.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles",
+    "lib/scripts/graph-data.js",
+    "lib/scripts/minisearch.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/tinycolor.js",
+    "lib/media/favicon.png",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "TEst/Test1.md"
   ]
 }
