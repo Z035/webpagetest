@@ -26,7 +26,7 @@
   "addGraphView": true,
   "addTitle": true,
   "addRSSFeed": true,
-  "siteURL": "",
+  "siteURL": "https://z035.github.io/webpagetest/",
   "authorName": "",
   "vaultTitle": "TestWebpage",
   "exportPreset": "website",
@@ -46,7 +46,9 @@
   "exportPath": "/Users/phoebus/Vaults/TestWebpage",
   "filesToExport": [
     [
-      "all"
+      "ege",
+      "TEst",
+      "index.html"
     ]
   ]
 }
